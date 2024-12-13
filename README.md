@@ -72,6 +72,7 @@
 - Tailwind Css
 - TypeScript
 - Angular
+- Django
 
   </br>
 
