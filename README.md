@@ -1,11 +1,20 @@
-## Hi there 👋
 
+<h1 align="center">Hi , I'm Alejandro Bravo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-    <img src="images/banner.png" alt="Banner">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Development+Student;Competitive+Programmer;Experience+with+Software+Quality;Always+Learning+New+Things"></a>
 </p>
 
+<br>
+
+
+
+	
+
+<br><br>
 <h3>
-  🚀 Principal Stack
+    
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Main Skills
+
 </h3> 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -67,6 +76,11 @@
 
 </br>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+
 ### 🌱 I'm currently learning...
 
 - Tailwind Css
@@ -90,3 +104,10 @@
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alejandro0052&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></td>
   </tr>
 </table>
+
+<details>
+<summary> <b>📫 Contact me </b></summary>
+<p align="center">
+<a href="Alejandro Bravo | LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/badge/Alejandro Bravo | LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+</details>
