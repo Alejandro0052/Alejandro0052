@@ -108,6 +108,8 @@
 <details>
 <summary> <b>📫 Contact me </b></summary>
 <p align="center">
-<a href="Alejandro Bravo | LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/badge/Alejandro Bravo | LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/alejandro-bravo-018b242a3/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/Alejandro Bravo | LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
 </p>
 </details>
