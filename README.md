@@ -61,6 +61,8 @@
 
 <h4>Tools & Technologies</h4>
 <p>
+
+  <img src="https://img.shields.io/badge/TestCafe-272C33?style=for-the-badge&logo=testing-library&logoColor=white" alt="TestCafe">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
@@ -70,6 +72,7 @@
   <img src="https://img.shields.io/badge/Bluestacks-00C4FF?style=for-the-badge&logo=bluestacks&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
+  
  
  
 </p>
